@@ -15,7 +15,6 @@ men_stepped_on_the_moon=input()
 print(men_stepped_on_the_moon)
 ```
 ## Output
-![Uploading image.png…]()
-
+<img width="630" height="185" alt="image" src="https://github.com/user-attachments/assets/f9c30ab7-dc12-43a5-b4c3-d0778a970e5f" />
 
 ## Result
